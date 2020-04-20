@@ -30,6 +30,7 @@
 
 # Debug files
 *.dSYM/
+*.scvd
 
 # Keil output
 Listings
