@@ -1,8 +1,3 @@
-/**
-*	UART FIFO Example.
-*
-*	In nRF_Drivers @file nrf_drv_config.h ,Set @define UART0_ENABLED to 1.
-*/
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>

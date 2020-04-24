@@ -36,5 +36,10 @@ int main()
 	{
 		uart_putchar(*p);
 	}
+	
+	//Loop
+	while(1)
+	{
+	}
 }
 /**	@} */
