@@ -1,4 +1,4 @@
-# Nrf52832 peripheral examples
+# Nrf52832 examples
 nrf52832 peripheral examples using MDK5 Software Packs - Keil
 
 ![Nrf52](nrf52.png)
